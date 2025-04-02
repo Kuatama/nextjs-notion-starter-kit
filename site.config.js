@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '团子',
-  domain: '团子',
+  domain: 'ikun.su',
   author: '团子',
 
   // open graph metadata (optional)
