@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: '',
 
   // basic site info (required)
-  name: 'tangly1024',
-  domain: 'tanghh',
-  author: 'tangly1024',
+  name: '团子',
+  domain: '团子',
+  author: '团子',
 
   // open graph metadata (optional)
   description: '',
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: '',
-  github: 'tangly1024',
+  github: 'sepbigo',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
